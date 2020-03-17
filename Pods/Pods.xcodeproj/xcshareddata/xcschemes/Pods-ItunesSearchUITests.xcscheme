@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9A0973D980F285975A7DD9C290DD4672"
-               BuildableName = "Pods_ItunesSearchTests.framework"
-               BlueprintName = "Pods-ItunesSearchTests"
+               BlueprintIdentifier = "342A74081BB8AC989BD66B99BBB6F5E0"
+               BuildableName = "Pods_ItunesSearchUITests.framework"
+               BlueprintName = "Pods-ItunesSearchUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -45,14 +43,12 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9A0973D980F285975A7DD9C290DD4672"
-            BuildableName = "Pods_ItunesSearchTests.framework"
-            BlueprintName = "Pods-ItunesSearchTests"
+            BlueprintIdentifier = "342A74081BB8AC989BD66B99BBB6F5E0"
+            BuildableName = "Pods_ItunesSearchUITests.framework"
+            BlueprintName = "Pods-ItunesSearchUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
